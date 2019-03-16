@@ -1,2 +1,3 @@
 LearnPython
 ************
+Opisanie
